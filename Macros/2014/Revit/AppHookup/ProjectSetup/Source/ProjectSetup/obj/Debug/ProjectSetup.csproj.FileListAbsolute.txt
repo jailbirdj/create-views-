@@ -1,0 +1,3 @@
+C:\ProgramData\Autodesk\Revit\Macros\2014\Revit\AppHookup\ProjectSetup\AddIn\ProjectSetup.dll
+C:\ProgramData\Autodesk\Revit\Macros\2014\Revit\AppHookup\ProjectSetup\Source\ProjectSetup\obj\Debug\ProjectSetup.dll
+C:\ProgramData\Autodesk\Revit\Macros\2014\Revit\AppHookup\ProjectSetup\Source\ProjectSetup\obj\Debug\ProjectSetup.csprojResolveAssemblyReference.cache
