@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command Application</Text>
+    <Description>TLC View Creator</Description>
+    <Assembly>Application.dll</Assembly>
+    <FullClassName>Application.Command</FullClassName>
+    <ClientId>b524eb8a-2a9b-4559-92b5-a6531742143a</ClientId>
+    <VendorId>jay.dunn</VendorId>
+    <VendorDescription>TLC</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application Application</Name>
+    <Assembly>Application.dll</Assembly>
+    <FullClassName>Application.App</FullClassName>
+    <ClientId>1a9b3711-754f-4b93-adf6-74b251c7c067</ClientId>
+    <VendorId>jay.dunn</VendorId>
+    <VendorDescription>TLC</VendorDescription>
+  </AddIn>
+</RevitAddIns>
+
+
+
+    
+    
+   
+    

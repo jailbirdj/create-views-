@@ -1,0 +1,17 @@
+G:\RTC2014\API\Forms\Application\Application\obj\Debug\Application.csprojResolveAssemblyReference.cache
+G:\RTC2014\API\Forms\Application\Application\bin\Debug\Application.dll
+G:\RTC2014\API\Forms\Application\Application\bin\Debug\Application.pdb
+G:\RTC2014\API\Forms\Application\Application\obj\Debug\Application.dll
+G:\RTC2014\API\Forms\Application\Application\obj\Debug\Application.pdb
+G:\RTC2014\API\Forms\Application\Application\obj\Debug\UserControl1.baml
+G:\RTC2014\API\Forms\Application\Application\obj\Debug\UserControl1.g.cs
+G:\RTC2014\API\Forms\Application\Application\obj\Debug\Application_MarkupCompile.cache
+G:\RTC2014\API\Forms\Application\Application\obj\Debug\Application.g.resources
+C:\Users\jay.dunn\Documents\Visual Studio 2013\Projects\Ribbon Panel - Button\Application\bin\Debug\Application.dll
+C:\Users\jay.dunn\Documents\Visual Studio 2013\Projects\Ribbon Panel - Button\Application\bin\Debug\Application.pdb
+C:\Users\jay.dunn\Documents\Visual Studio 2013\Projects\Ribbon Panel - Button\Application\obj\Debug\UserControl1.baml
+C:\Users\jay.dunn\Documents\Visual Studio 2013\Projects\Ribbon Panel - Button\Application\obj\Debug\UserControl1.g.cs
+C:\Users\jay.dunn\Documents\Visual Studio 2013\Projects\Ribbon Panel - Button\Application\obj\Debug\Application_MarkupCompile.cache
+C:\Users\jay.dunn\Documents\Visual Studio 2013\Projects\Ribbon Panel - Button\Application\obj\Debug\Application.g.resources
+C:\Users\jay.dunn\Documents\Visual Studio 2013\Projects\Ribbon Panel - Button\Application\obj\Debug\Application.dll
+C:\Users\jay.dunn\Documents\Visual Studio 2013\Projects\Ribbon Panel - Button\Application\obj\Debug\Application.pdb
